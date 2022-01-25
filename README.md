@@ -1,4 +1,4 @@
-Mi nombre es Martin Avalos, soy un estudiante de 3er año en Ingenieria Indsutrial,
+Mi nombre es Martin Avalos, soy un estudiante de 4to año en Ingenieria Industrial,
 apasionado por el desarrollo web,
 aca encontrarás algunos de mis proyectos.
 Tecnologias
