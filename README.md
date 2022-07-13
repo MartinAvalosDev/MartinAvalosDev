@@ -1,5 +1,14 @@
-Mi nombre es Martin Avalos, soy un estudiante de 4to año en Ingenieria Industrial,
-apasionado por el desarrollo web,
-aca encontrarás algunos de mis proyectos.
-Tecnologias
-html5 css3 javascript sass git bootstrap react.js
+const martinAvalos = [
+
+      {
+        nombre: "Martin",
+        descripcion: "Desarrollador de software",
+        especialidad: "Backend"
+        skills: [ "node.js" , "express", "javascript", "mongoDB" ],
+        contacto: {
+        email: " tincho.avalos98@hotmail.com ",
+        linkedin: "https://www.linkedin.com/in/martin-alejandro-avalos/ "
+        }
+      
+      }
+]
