@@ -1,6 +1,5 @@
-const martinAvalos = [
+const martin-avalos = [{
 
-      {
         nombre: "Martin",
         descripcion: "Desarrollador de software",
         especialidad: "Backend"
@@ -10,5 +9,4 @@ const martinAvalos = [
         linkedin: "https://www.linkedin.com/in/martin-alejandro-avalos/ "
         }
       
-      }
-]
+}]
