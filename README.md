@@ -1,7 +1,7 @@
 const martin-avalos = [{
 
         nombre: "Martin",
-        descripcion: "Desarrollador de software full-stack",
+        descripcion: "Desarrollador de software",
         especialidad: "Backend",
         skills: [ "node.js" , "express", "javascript", "mongoDB" ],
         contacto: {
